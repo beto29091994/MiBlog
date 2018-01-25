@@ -77,6 +77,6 @@ C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\bin\Microsoft.Owin.Security.OAut
 C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\obj\Debug\MiBlog.csprojResolveAssemblyReference.cache
 C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\obj\Debug\MiBlog.dll
 C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\obj\Debug\MiBlog.pdb
+C:\Users\alberto\Desktop\TINFO431\MiBlog\MiBlog\obj\Debug\MiBlog.csprojResolveAssemblyReference.cache
